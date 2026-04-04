@@ -32,11 +32,13 @@ Let's return to the attempt at visualization. Visualizing a supermassive object 
 
 A black hole without an 'accretion disk'. If we add an 'accretion disk' of gas and dust to this black hole, we get something like this:
 
+![Example close to reality](https://naked-science.ru/wp-content/uploads/2019/10/chernaya-dyra-549977-G9Ga7puJ.jpg)
+
 It looks beautiful, but it seems to me (logically) that it looks unnatural, or rather, the upper and lower reflection of the 'photon rings' should look thinner. But these are rather my reflections and an attempt to mentally imagine a black hole.
 
 Next is a photo of the actual black hole 'Messier 87', taken in 2019, where the 'event horizon' and 'accretion disk' of the black hole are clearly visible.
 
-![Example close to reality](https://naked-science.ru/wp-content/uploads/2019/10/chernaya-dyra-549977-G9Ga7puJ.jpg)
+![2019 photo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Black_hole_-_Messier_87.jpg/1280px-Black_hole_-_Messier_87.jpg)
 
 The main factor that needs to be taken into account is the angle of the observed object. If we look directly at the object, we get that same black hole, with a central 'accretion disk' and its reflection above and below. If we look at a black hole that is turned with one of its poles toward us, then visually it will be similar to our example with a light bulb, where there is light that is blocked in the middle by a black circle.
 
